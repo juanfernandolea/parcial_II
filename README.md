@@ -22,5 +22,5 @@ Las pruebas unitarias son técnicas de verificación de software que permite com
 
 En Java, una de las herramientas más utilizadas para este propósito es JUnit, especialmente en su versión 5. Esta librería permite definir métodos de prueba mediante anotaciones como @Test y validar resultados utilizando afirmaciones como assertTrue, assertEquals, entre otras.
 
-##NOTA: 
+## NOTA: 
 Visual no ejecutó como esperaría, por ende me quedo corto en cuanto a las pruebas. Es algo que se sale de mis manos.
