@@ -21,5 +21,6 @@ JUnit versión 4 o versión 5 instalar en el proyecto usando el archivo pom.xml.
 Las pruebas unitarias son técnicas de verificación de software que permite comprobar el funcionamiento de fragmentos del codigo, como revisión de métodos o clases pero de manera aislada, por eso se llama "unitario". El objetivo es garantzar que cada parte funcione correctamente antes de integrarse con otras.
 
 En Java, una de las herramientas más utilizadas para este propósito es JUnit, especialmente en su versión 5. Esta librería permite definir métodos de prueba mediante anotaciones como @Test y validar resultados utilizando afirmaciones como assertTrue, assertEquals, entre otras.
+
 ##NOTA: 
 Visual no ejecutó como esperaría, por ende me quedo corto en cuanto a las pruebas. Es algo que se sale de mis manos.
